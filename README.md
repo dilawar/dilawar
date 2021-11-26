@@ -21,5 +21,5 @@ other low-level system programming stuff, drop me an email. We mostly use C/C++ 
 ### Social
 
 - [Google Scholar](https://scholar.google.com/citations?user=M8uppRgAAAAJ&hl=en&authuser=1)
-- [LinkedIn](https://www.linkedin.com/in/dilawar-singh/) [ShlinkedIn](https://www.shlinkedin.com/sh/hotteasaurus)
+- [LinkedIn](https://www.linkedin.com/in/dilawar-singh/) / [ShlinkedIn](https://www.shlinkedin.com/sh/hotteasaurus)
 - I am not active on Twitter (I rarely has anything interesting to say to human beings). 
