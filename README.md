@@ -7,7 +7,8 @@ Currently, I am working on my startup Subconscious Compute that leverage bio-ins
 to find patterns quickly (mouthful 🙄). 
 
 We are hiring! If you are passionate about Operating Systems, Observability and Security (eBPF etc.), and 
-other low-level system programming stuff, drop me an email. We mostly use C/C++, Rust, nim; and I hate Java (well, who doesn't!).
+other low-level system programming stuff, drop me an email. Don't send me your resume, send me your Github profile. 
+We mostly use C/C++ and occassionaly Rust and nim.
 
 - 🔭 I’m currently working on endpoint cybersecurity (for work) and particle/neural simulators (for fun).
 - 🌱 I’m currently learning Windows OS 😞 (for work), and cell biology 🌛 (for fun).
