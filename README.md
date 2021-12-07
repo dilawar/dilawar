@@ -13,7 +13,7 @@ drop me an email. We mostly use C/C++ and occassionaly Rust and nim.
 - 🌱 I’m currently learning Windows OS 😞 (for work), and cell biology 🌛 (for fun).
 - 👯 I’m looking to collaborate on machine learning at the Edge, observability and security (for work 👷‍♂️); and on neuroscience, cell biology for fun 🏏. 
 - 💬 Ask me about computations in the brain, and unix command line.
-- 📫 How to reach me: <dilawar.s.rajput@gmail.com>
+- 📫 How to reach me: Drop an email to <dilawar.s.rajput@gmail.com>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can run 10km🏃‍♂️ easily now. It was the only item on my bucket list!
 
@@ -21,4 +21,3 @@ drop me an email. We mostly use C/C++ and occassionaly Rust and nim.
 
 - [Google Scholar](https://scholar.google.com/citations?user=M8uppRgAAAAJ&hl=en&authuser=1)
 - [LinkedIn](https://www.linkedin.com/in/dilawar-singh/) / [ShlinkedIn](https://www.shlinkedin.com/sh/hotteasaurus)
-- I am not active on Twitter (I rarely has anything interesting to say to human beings). 
