@@ -9,7 +9,7 @@ to detects "patterns" quickly. We are hiring! If you are passionate about Operat
 Observability and Security (eBPF etc.), and low-level system programming in general, 
 drop me an email. We mostly use C/C++ and occassionaly Rust and nim.
 
-- 🔭 I’m currently working on endpoint security (for work) and particle/neural simulators (for fun).
+- 🔭 I’m currently working on endpoint security (for work) and DevOpts for BioInformatics (for fun).
 - 🌱 I’m currently learning Windows OS 😞 (for work), and cell biology (for fun).
 - 👯 I’m looking to collaborate on machine learning at the Edge, observability and security (for work 👷‍♂️); and on neuroscience, cell biology for fun 🏏. 
 - 💬 Ask me about computations in the brain, and unix command line.
