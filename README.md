@@ -2,10 +2,10 @@
 
 I am Dilawar (pronounced the-law-were, the-lover).
 
-I am an electrical engineer (M.Tech, Ph.D. withdrawn) and a PhD in System Biology/Neuroscience.
+I am trained as an electrical engineer and a System Biologist (Neuroscientist).
 
 Currently, I am busy with my startup Subconscious Compute that leverages bio-inspired approximate computations
-to detects "patterns" quickly. We are hiring! If you are passionate about Operating Systems, ML at the Edge, 
+to detect and classify "patterns". We are hiring! If you are passionate about Operating Systems, ML at the Edge, 
 Observability and Security (eBPF etc.), and low-level system programming in general, 
 drop me an email. We mostly use C/C++ and occassionaly Rust and nim.
 
