@@ -7,7 +7,7 @@ I am trained as an electrical engineer and a System Biologist (Neuroscientist).
 Currently, I am busy with my startup Subconscious Compute that leverages bio-inspired approximate computations
 to detect and classify "patterns". We are hiring! If you are passionate about Operating Systems, ML at the Edge, 
 Observability and Security (eBPF etc.), and low-level system programming in general, 
-drop me an email. We mostly use C/C++ and occassionaly Rust and nim.
+drop me an email. We mostly use Rust, C/C++, PHP, and Python, and occassionaly Haskell and Nim.
 
 - 🔭 I’m currently working on endpoint security (for work) and DevOps for BioInformatics (for fun).
 - 🌱 I’m currently learning Windows OS 😞 (for work), and cell biology (for fun).
