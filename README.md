@@ -16,7 +16,7 @@ drop me an email. We mostly use Rust, C/C++, PHP, and Python, and occassionaly H
 - 💬 Ask me about computations in the cells and neurons, living machines, and unix command line.
 - 📫 How to reach me: Drop an email to <dilawar.s.rajput@gmail.com>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can run 10km🏃‍♂️ easily now. It was the only item on my bucket list!
+- ⚡ Fun fact: I can run 10km🏃‍♂️ easily now. It was the only item on my bucket list! In fact, I even ran a half-marathon!! 
 
 ### Social
 
