@@ -3,8 +3,8 @@
 I am Dilawar (pronounced the-law-were or the-lover). I am trained as an electrical engineer and a System Biologist (Neuroscientist). 
 You can find my brief history [here](https://dilawars.notion.site/A-brief-history-of-Dilawar-7e28486f832a4f59905899d7d318f287).
 
-Currently, I am busy with my startup Subconscious Compute that leverages bio-inspired approximate computations
-to detect and classify "patterns". 
+Currently, I am busy with my startup [Subconscious Compute](https://www.subcom.tech) that leverages bio-inspired approximate 
+computations to detect and classify "patterns". 
 
 We are hiring! If you are passionate about Operating Systems, ML at the Edge, 
 Observability and Security (eBPF etc.), and low-level system programming in general, 
