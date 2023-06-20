@@ -22,3 +22,4 @@ drop me an email. We mostly use Rust, C/C++, PHP, and Python, and occassionaly H
 
 - [Google Scholar](https://scholar.google.com/citations?user=M8uppRgAAAAJ&hl=en&authuser=1)
 - [LinkedIn](https://www.linkedin.com/in/dilawar-singh/) / [ShlinkedIn](https://www.shlinkedin.com/sh/hotteasaurus)
+- [Lemmy](https://lemm.ee/u/dilawar)
