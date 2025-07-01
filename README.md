@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Dilawar (pronounced the-law-were, not _the-lover_). I build systems (web and application).
-I am [a generalist](https://dilawars.notion.site/Generalist-148e579bff89805e86b3f4f2d8b73973) and a problem solver -- well
+I am [a generalist](https://dilawars.notion.site/Generalist-148e579bff89805e86b3f4f2d8b73973) system engineer -- well
 suited for early stage startups and small teams. I also take specliased projects on data-to-decision computations. 
 
 I was trained as an electrical engineer and a (lapsed) System Biologist (Neuroscientist). 
