@@ -7,8 +7,8 @@ suited for early stage startups and small teams. I also take specliased projects
 I was trained as an electrical engineer and a (lapsed) System Biologist (Neuroscientist). 
 You can find my brief history [here](https://dilawars.notion.site/A-brief-history-of-Dilawar-7e28486f832a4f59905899d7d318f287).
 
-I've also worked in various domains of Operating Systems, ML at the Edge, Observability and Security (eBPF, etc.), and low-level system 
-programming in general. These days, I mostly use Rust, C/C++, PHP, and Python, and occasionally Haskell and Nim.
+I've experience with Operating Systems, ML at the Edge, Observability and endpoint Security (minifilter, eBPF, etc.), and 
+low-level system programming in general. These days, I mostly use Rust, C/C++, PHP, and Python, and occasionally Haskell and Nim.
 
 ### Social
 
