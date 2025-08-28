@@ -8,7 +8,7 @@ I was trained as an electrical engineer and a (lapsed) System Biologist (Neurosc
 You can find my brief history [here](https://dilawars.notion.site/A-brief-history-of-Dilawar-7e28486f832a4f59905899d7d318f287).
 
 I've experience with Operating Systems, ML at the Edge, Observability and endpoint Security (minifilter, eBPF, etc.), and 
-low-level system programming in general. These days, I mostly use Rust, C/C++, PHP, and Python, and occasionally Haskell and Nim.
+low-level system programming in general. These days, I mostly use Rust, C/C++, PHP, Python, and TS/JS and occasionally Haskell and Nim.
 
 ### Social
 
